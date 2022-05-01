@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6B0b90047C423c613960966da8d1de80983655b2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6B0b90047C423c613960966da8d1de80983655b2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SauceyCharlie",
+  "SYMBOL": "SCNFT",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sauceycharlie",
+  "SHOW_BACKGROUND": true
+}
